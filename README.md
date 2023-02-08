@@ -1,6 +1,6 @@
 # game615-spring2023-03
 
-Created by: Alex and HongCheng 
+Team: Alex and HongCheng 
 
 Link to Game [https://alexj1889.github.io/game615-spring2023-03/exercise03/play/]
 
