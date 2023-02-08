@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ToyMaze.unity
+    guid: 7cd74498a8be3480fb6619a87f9dc2f1
   m_configObjects: {}
