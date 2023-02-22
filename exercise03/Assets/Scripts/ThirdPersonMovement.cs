@@ -36,7 +36,6 @@ public class ThirdPersonMovement : Subject
         if(isJumpPressed && isGrounded)
         {
             NotifyObservers(PlayerActions.Jump);
-            Debug.Log("jump"); 
             velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity); 
         }
 

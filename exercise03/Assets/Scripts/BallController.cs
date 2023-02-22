@@ -13,7 +13,6 @@ public class BallController : MonoBehaviour
         rb = GetComponent<Rigidbody>();
     }
 
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))

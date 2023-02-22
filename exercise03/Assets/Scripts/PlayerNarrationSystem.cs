@@ -47,8 +47,7 @@ public class PlayerNarrationSystem : MonoBehaviour, IObserver
 
             default:
                 return;         
-    }
-        
+        }
     }
 
     private void OnEnable()
