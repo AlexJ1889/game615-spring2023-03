@@ -2,7 +2,9 @@
 
 Team: Alex and HongCheng 
 
-[Link to Game](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/)
+[Link to Game](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
+
+[Source link](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
 
 Asset Attribution
 
