@@ -1,13 +1,18 @@
-# game615-spring2023-03
+**Exercise 3:** _"Dream maze"_
 
-Team: Alex and HongCheng 
+**Group team:** Alex and HongCheng 
+
+**How to play:** 
+WASD to move, Space to jump. 
+
+**Game goal:** 
+Obtain 3 pink hearts and discover the 2 hidden audio effects in the game. 
 
 [Link to Game](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
 
 [Source link](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
 
-Asset Attribution
-
+**Asset Attribution:**
 Fire Truck by Ivan Klus [CC-BY] via Poly Pizza
 Rubber Duck by Poly by Google [CC-BY] via Poly Pizza
 Toy train by Jair Trejo [CC-BY] via Poly Pizza
